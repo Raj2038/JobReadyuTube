@@ -1,0 +1,39 @@
+﻿@model IEnumerable<JobReadyUtube.Models.Video>
+
+
+<h5>"Home Page"</h5>
+
+
+<div class="container">
+    <ul class="grid-list">
+        @foreach (var video in Model)
+        {
+            <li class="grid-item">
+                <div class="thumbnail">
+                    <iframe src="@video.URL" frameborder="0" allowfullscreen="false"></iframe>
+                </div>
+                <div class="video-content">
+                    <p>@video.Name</p>
+                    <p>@video.Description</p>
+                </div>
+            </li>
+        }
+
+    </ul>
+</div>
+
+<style>
+    .grid-list {
+        list-style: none;
+    }
+
+        .grid-list .grid-item {
+            width: 33%;
+            display: inline-block;
+            height: 25%;
+            overflow-x: hidden;
+            overflow-y: hidden;
+        }
+</style>
+
+

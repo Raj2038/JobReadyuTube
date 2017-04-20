@@ -1,0 +1,87 @@
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\csc.exe
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\vbc.exe
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\VBCSCompiler.exe
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\JobReadyUtube.dll.config
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\JobReadyUtube.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\JobReadyUtube.pdb
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\Antlr3.Runtime.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\EntityFramework.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\EntityFramework.SqlServer.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\Newtonsoft.Json.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.Helpers.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.Mvc.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.Optimization.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.Razor.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.Deployment.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.Razor.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\WebGrease.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\EntityFramework.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\EntityFramework.SqlServer.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.Helpers.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.Mvc.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.Optimization.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.Razor.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.Deployment.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.Razor.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\Antlr3.Runtime.pdb
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\bin\Newtonsoft.Json.xml
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\obj\Debug\JobReadyUtube.dll
+c:\Users\jkanimea\Documents\Visual Studio 2015\Projects\JobReadyUtube\JobReadyUtube\obj\Debug\JobReadyUtube.pdb
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\csc.exe
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\vbc.exe
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\JobReadyUtube.dll.config
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\JobReadyUtube.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\JobReadyUtube.pdb
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\Antlr3.Runtime.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\EntityFramework.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\EntityFramework.SqlServer.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\Newtonsoft.Json.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.Helpers.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.Mvc.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.Optimization.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.Razor.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\WebGrease.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\EntityFramework.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\EntityFramework.SqlServer.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.Helpers.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.Mvc.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.Optimization.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.Razor.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\Antlr3.Runtime.pdb
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\bin\Newtonsoft.Json.xml
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\obj\Debug\JobReadyUtube.csprojResolveAssemblyReference.cache
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\obj\Debug\JobReadyUtube.dll
+C:\Users\Anu\Downloads\JobReadyUtube (2)\JobReadyUtube\JobReadyUtube\obj\Debug\JobReadyUtube.pdb

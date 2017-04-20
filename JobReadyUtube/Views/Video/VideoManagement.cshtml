@@ -1,0 +1,31 @@
+﻿@model IEnumerable<JobReadyUtube.Models.Video>
+@{
+    ViewBag.Title = "VideoManagement";
+}
+
+<h2>VideoManagement</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Channel Name</th>
+            <th>Title</th>
+            <th class="description">Description</th>
+            <th>Url</th>
+            <th>Uploaded on</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var video in Model)
+        {
+            <tr>
+                <td>@video.Channel.Name</td>
+                <td><a href="@Url.Action("DisplayVideo","Video", new {id = video.Id})">@video.Name</a></td>
+                <td>@video.Description</td>
+                <td>@video.URL</td>
+                <td>@video.CreatedOn</td>
+            </tr>
+        }
+    </tbody>
+</table>

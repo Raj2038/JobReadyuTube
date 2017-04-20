@@ -1,0 +1,43 @@
+﻿@model JobReadyUtube.Models.Video
+@{
+    ViewBag.Title = "DisplayVideo";
+}
+
+<h2>DisplayVideo</h2>
+
+<div class="container">
+
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/@Model.URL" frameborder="0" allowfullscreen></iframe>
+    <h2>@Model.Name</h2>
+    <h5>Description</h5>
+    <p>@Model.Description</p>
+    <p>
+        <strong>Published on @Model.CreatedOn</strong>
+    </p>
+    <hr />
+    <div id="comment-container">
+        <textarea class="form-control form-group" id="comment-content" placeholder="Add comment"></textarea>
+        <div id="comment-list">
+            @{ Html.RenderAction("LoadVideoComment", "Video", new { videoId = Model.Id }); }
+        </div>
+
+        <input type="button" value="submit" class="btn btn-default" id="submit-comment-btn" />
+    </div>
+</div>
+
+<script>
+    $("#submit-comment-btn").click(function() {
+
+        var videoId = @Model.Id;
+        var commentContent = $("#comment-content").val();
+        $.ajax({
+            url: "@Url.Action("AddComment","Video")",
+            type: "POST",
+            dataType: "json",
+            data: {videoId : videoId , comment : commentContent},
+            success: function() {
+                $("#comment-list").load("/Video/LoadVideoComment/?videoId=" + @Model.Id);
+            }
+        });
+    });
+</script>
